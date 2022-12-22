@@ -39,7 +39,7 @@ private:
     void setBalance                 ( AVLnode<T> *n );
     void printBalance               ( AVLnode<T> *n );
     void clearNode                  ( AVLnode<T> *n );
-}
+};
  
 /* AVL class definition */
 template <class T>
